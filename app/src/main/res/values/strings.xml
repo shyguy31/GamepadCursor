@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GamepadCursor</string>
+    <string name="gamepad_cursor">Gamepad Cursor</string>
+    <string name="app_description">Control an on-screen cursor using your gamepad or controller</string>
+    <string name="request_overlay_permission">Request Overlay Permission</string>
+    <string name="open_accessibility_settings">Enable Accessibility Service</string>
+    <string name="instructions">1. Enable overlay permission\n2. Enable accessibility service\n3. Use D-Pad/Joystick to move cursor\n4. Press A or D-Pad Center to click</string>
+    <string name="accessibility_service_description">Gamepad Cursor Service - Enables gamepad/controller input to move an on-screen cursor overlay and simulate touch clicks</string>
+</resources>
